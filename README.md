@@ -30,9 +30,9 @@ I have been afforded the opportunity of working at organisations where I have be
 
 #### Makers Academy (December 2018 to Present)
 
-- Curious and passionate about code - Have been coding since the beginning of 2018, what started as a means to understand the lunch time banter with my engineer colleagues turned to a genuine interest and now career path.
-- Fast, independent learner - the Pre-Course was primarily self-guided and self-paced which has allowed me to create effective work habits when working independently.
-- Great collaborator - pairing with different programmers on a daily basis, never one to shy away from sharing ideas,
+- Curious and passionate about code --> Have been coding since the beginning of 2018, what started as a means to understand the lunch time banter with my engineer colleagues turned to a genuine interest and now career path.
+- Fast, independent learner --> the Pre-Course was primarily self-guided and self-paced which has allowed me to create effective work habits when working independently.
+- Great collaborator --> pairing with different programmers on a daily basis, never one to shy away from sharing ideas,
 
 Will be learnt:
 - OOP, TDD, MVC, DDD
@@ -42,7 +42,7 @@ Will be learnt:
 
 #### St Francis Xavier College (February 2007 to November 2012)
 
-- Completed Victorian Certificate of Education (A Levels)
+- Completed Victorian Certificate of Education (Australian Equivalent of A-Levels)
 - Subjects: Mathematical Methods, Further Mathematics, Chemistry, Biology, Music Performance and English
 
 ## Experience
