@@ -47,7 +47,7 @@ Will be learnt:
 
 ## Experience
 
-**Blockchain** March 2018 - October 2018   
+**Blockchain** (March 2018 - October 2018)
 *Office Manager*
 
 Duties:
@@ -59,8 +59,8 @@ Duties:
 - Project management and logistics of a full fit-out office move, liaising with interior design firm and contractors, managing budget and unforeseen costs
 
 
-**International Project Finance Association** June 2017 - February 2018 (Contract)
-*Team Administrator*
+**International Project Finance Association** (June 2017 - February 2018)
+*Team Administrator - Temporary Contract*
 
 Duties:
 - First point of contact for all IPFA incoming calls and enquiries
